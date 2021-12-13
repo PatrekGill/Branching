@@ -10,7 +10,8 @@
 * `git log` - List commit history
 * `git log --oneline` - List commit history, compact format
 
-### Brnaching Commands
+### Branching Commands
 * `git branch` - List local git branches
 * `git branch newBranch` - Create local branch named 'newBranch'
 * `git checkout newBranch` - Change local branch to 'newBranch'
+* `git branch -M otherBranch` - Rename the current branch to `otherBranch`
